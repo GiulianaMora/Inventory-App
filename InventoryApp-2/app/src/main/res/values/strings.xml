@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="sale_button">Sale</string>
+    <string name="add_new_item">Add new item</string>
+    <string name="hint_email_address">supplier@gmail.com</string>
+    <string name="supplier_email">Supplier Email</string>
+    <string name="supplier_telephone_hint">360-455-2399</string>
+    <string name="supplier_telephone">Supplier Telephone</string>
+    <string name="supplier_name_hint">Hasbro</string>
+    <string name="supplier_name_title">Supplier Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="product_name">Product Name</string>
+    <string name="currency">$ / item</string>
+    <string name="action_save">Save</string>
+    <string name="editor_activity_add_new_item">Add new item</string>
+    <string name="editor_activity_edit_item">Edit item</string>
+    <string name="menu_order_item">Order again</string>
+    <string name="menu_delete_item">Delete item</string>
+    <string name="menu_delete_all_data">Delete all data</string>
+    <string name="phone">Telephone</string>
+    <string name="email">Email</string>
+    <string name="order_message">You can order via telephone</string>
+    <string name="delete_message">Are you sure you would like to delete?</string>
+    <string name="delete">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_list_view_hint">Try adding some items to your inventory list</string>
+    <string name="action_add_dummy_data">Add Dummy Data</string>
+    <string name="select_image">Select image</string>
+    <string name="image">Image</string>
+    <string name="unsaved_changes_dialog_msg">There are unsaved changes. Are you sure you want to continue?</string>
+    <string name="discard">Discard</string>
+    <string name="continue_editing">Continue editing</string>
+</resources>
