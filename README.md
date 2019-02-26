@@ -11,3 +11,5 @@ This app keeps track of a toy store's inventory. Uses SQLite databases and Conte
 ![screenshot_1550799193](https://user-images.githubusercontent.com/36802522/53213947-9983e000-35ff-11e9-8e3b-a31deb61577e.png)
 
 ![screenshot_1551208682](https://user-images.githubusercontent.com/36802522/53441702-3c4fac00-39bc-11e9-824a-c3955445d681.png)
+
+![screenshot_1551208688](https://user-images.githubusercontent.com/36802522/53441812-79b43980-39bc-11e9-9cf6-d4c133751e9b.png)
